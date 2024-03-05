@@ -29,18 +29,19 @@ in different States of a country. The Group States based on how similar their si
 provide these groups to the government so that appropriate measures can be taken to escalate
 their Health and Economic conditions.
 
- 2.1. Read the data and do exploratory data analysis. Describe the data briefly. (Check the null
- values, Data types, shape, EDA, etc, etc)
- 2.2. Do you think scaling is necessary for clustering in this case? Justify
- 2.3. Apply hierarchical clustering to scaled data. Identify the number of optimum clusters using
- Dendrogram and briefly describe them.
- 2.4. Apply K-Means clustering on scaled data and determine optimum clusters. Apply elbow curve
- and find the silhouette score.
- 2.5. Describe cluster profiles for the clusters defined. Recommend different priority based actions
- that need to be taken for different clusters on the bases of their vulnerability situations according to
- their Economic and Health Conditions.
+  2.1. Read the data and do exploratory data analysis. Describe the data briefly. (Check the null
+  values, Data types, shape, EDA, etc, etc)
+  2.2. Do you think scaling is necessary for clustering in this case? Justify
+  2.3. Apply hierarchical clustering to scaled data. Identify the number of optimum clusters using
+  Dendrogram and briefly describe them.
+  2.4. Apply K-Means clustering on scaled data and determine optimum clusters. Apply elbow curve
+  and find the silhouette score.
+  2.5. Describe cluster profiles for the clusters defined. Recommend different priority based actions
+  that need to be taken for different clusters on the bases of their vulnerability situations according to
+  their Economic and Health Conditions.
 
 ## Data Dictionary for State_wise_Health_income Dataset:
+
  1. States: names of States
  2. Health_indeces1: A composite index rolls several related measures (indicators) into a single score
  that provides a summary of how the health system is performing in the State.

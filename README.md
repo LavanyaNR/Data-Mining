@@ -24,10 +24,10 @@ this variable before doing Principal Component Analysis.
 
 ## Problem 2 - Part 2: Clustering:
 
-The State_wise_Health_income.csv dataset given is about the Health and economic conditions
-in different States of a country. The Group States based on how similar their situation is, so as to
-provide these groups to the government so that appropriate measures can be taken to escalate
-their Health and Economic conditions.
+ The State_wise_Health_income.csv dataset given is about the Health and economic conditions
+ in different States of a country. The Group States based on how similar their situation is, so as to
+ provide these groups to the government so that appropriate measures can be taken to escalate
+ their Health and Economic conditions.
 
   2.1. Read the data and do exploratory data analysis. Describe the data briefly. (Check the null
   values, Data types, shape, EDA, etc, etc)
@@ -56,6 +56,9 @@ their Health and Economic conditions.
 
 Dataset for Part 1: PCA: Hair Salon.csv
 Dataset for Part 2: Clustering: State_wise_Health_income.csv
+
+
+    
 
 
     
